@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "An AI-powered cooking assistant that identifies ingredients from fridge photos, suggests personalized recipes with dietary filters, and guides you with hands-free step-by-step cooking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
